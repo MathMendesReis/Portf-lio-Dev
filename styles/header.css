@@ -1,0 +1,35 @@
+#profile-pic{
+  padding-bottom: 36px;
+}
+
+#title{
+  gap: 8px;
+  padding-top: 56px;
+  padding-bottom: 36px;
+}
+
+
+#intro{
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+
+.background-intro{
+  background-image: url(../assets/imagens/Background_Intro.png);
+  background-size: cover;
+}
+
+#bio{
+  padding-bottom: 80px;
+
+}
+
+#scroll-intro{
+  padding-top: 94px;
+
+}
+
+#tags{
+  display: flex;
+  gap: 8px;
+}

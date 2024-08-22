@@ -1,0 +1,27 @@
+#list-services{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+#service{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px;
+gap: 20px;
+width: 280px;
+height: 155px;
+/* Base/gray-200 */
+border: 2px solid #16181D;
+border-radius: 12px;
+}
+
+#services{
+  padding-top: 88px;
+  padding-bottom: 120px;
+  display: grid;
+  gap: 56px;
+}

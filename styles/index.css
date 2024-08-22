@@ -1,1 +1,8 @@
 @import url(global.css);
+@import url(utilities.css);
+@import url(header.css);
+@import url(typograph.css);
+@import url(tag.css);
+@import url(projects.css);
+@import url(services.css);
+@import url(footer.css);

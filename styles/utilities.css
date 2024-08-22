@@ -1,0 +1,48 @@
+.grid{
+  display: grid;
+}
+
+.grid-center{
+  place-items: center;
+}
+
+.gap-20{
+  gap: 20px;
+}
+
+.max-width{
+
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+
+}
+.header-intro{
+  max-width: 680px;
+  width: 100%;
+}
+
+.border-aux{
+  border: 1px red solid;
+}
+
+.icon{
+  width: 19.63px;
+  height: 19.63px;
+  object-fit: cover;
+  
+
+}
+
+.text-center{
+  text-align: center;
+}

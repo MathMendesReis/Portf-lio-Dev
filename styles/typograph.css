@@ -1,0 +1,65 @@
+.title-lg{
+font-weight: var(--fw-md);
+font-size: var(--fs-2xl);
+line-height: 120%;
+text-align: center;
+color: var(--gray-600);
+}
+
+.title-sm{
+font-family: 'Asap';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 120%;
+color: #E2E4E9;
+}
+
+.title-md{
+font-family: 'Asap';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+text-align: center;
+color: #E2E4E9;
+}
+  
+.subtitle{
+  font-family: var(--font-inconsolata);
+  font-weight: var(--fw-base);
+  font-size: var(--fs-lg);
+  color: var(--gray-500);
+  text-align: center;
+  }
+
+
+.text-md{
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+text-align: center;
+/* Base/gray-500 */
+color: var(--gray-500);
+
+}
+.text-sm{
+  font-family: var(--font-maven-pro);
+  font-weight: var(--fw-base);
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  color: var(--gray-400);
+
+}
+  
+  .highlight{
+    font-family: var(--font-inconsolata);
+    font-weight: var(--fw-base);
+    font-size: var(--fs-lg);
+    line-height: 120%;
+    color: var(--red);
+  }
+  
+ 
